@@ -1,4 +1,4 @@
-baseURL               = "https://c70b6b3b.webstack-hugo-5bn.pages.dev"
+baseURL               = "https://webstack-hugo-5bn.pages.dev/"
 languageCode          = "zh-CN"
 title                 = "杰马吧 网址导航 网站"
 theme                 = "WebStack-Hugo"
